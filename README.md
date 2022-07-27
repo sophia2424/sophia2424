@@ -1,0 +1,4 @@
+- 👋 Olá, meu nome é @sophia2424
+- 👍 Meu e-mail de contato é sophia.correia@escola.pr.gov.br
+- 👀 Eu estou interessada em aprender novas linguagens de programações
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScrip e Scrath
